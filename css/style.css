@@ -1,0 +1,96 @@
+.QH{ 
+	background-repeat: repeat; 
+	background-size: contain;
+}
+.QT{
+	background: linear-gradient(to left, white, #b32d00);
+	text-align: center; 
+	color: white; 
+	text-shadow: 5px 5px 5px red;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  float: center;
+}
+.tb{
+	background:linear-gradient(to bottom, white, #b32d00);
+}
+.Lisitra{
+	text-align: center;
+	color: brown;
+	font-weight: bold;
+}
+.Lista{
+	text-align: center;
+	color: white;
+	font-weight: bold;
+}
+.bt{
+	background:linear-gradient(to top, white, #b32d00);
+}
+.lia{
+	color: white;
+	margin-left: 20px;
+
+}
+.lili{
+	color: brown;
+	margin-left: 20px;
+}
+h3{
+	margin-top: 20px; 
+	text-align: center; 
+	color: red; 
+	text-shadow: 5px 5px 5px brown;
+}
+.prog{
+	border: solid; 
+	color:lightgrey;
+}
+.prog1{
+	width: 25%;
+}
+.prog2{
+	width: 50%;
+}
+.prog3{
+	width: 75%;
+}
+.prog4{
+	width: 100%;
+}
+h4{
+	margin-top: 60px; 
+	color:green; 
+	text-align: center; 
+	font-family: Bookman Old Style;
+}
+h5{
+	margin-top: 60px;
+}
+.ch{
+	 margin-left: 20px;
+}
+.bout{
+	margin-top: 60px; 
+	object-position: center;
+}
+.pag{
+	border-style: none;
+	border: none;
+	color: brown;
+	font-weight: bold;
+}
+.foot{
+	background:linear-gradient(to right,  white, #b32d00);
+}
+.foo{
+	text-align: center; 
+	color:white;
+}
+.pn{
+	float: center;
+	display: inline-block;
+}
